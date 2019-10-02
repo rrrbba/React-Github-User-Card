@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  
+}
+
+
+
+.eachUser{
+  padding-bottom: 2%;
+  /* display: flex; */
+  background-color: pink;
+  width: 40%;
+  margin-bottom: 10%;
+  margin-left: 29%;
+  border-radius: 7px;
+  padding-top: 2%;
+} 
